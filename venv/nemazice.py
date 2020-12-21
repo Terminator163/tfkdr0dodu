@@ -2,7 +2,7 @@
 
 
 
-
+гшшыагщрку
 
 date = input().split()
 x = before_the_concert(date[0], date
